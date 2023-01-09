@@ -1,0 +1,23 @@
+img {
+    width: 50%;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+#headerText {
+    display: flex;
+    float: right;
+    padding: 5px;
+
+
+}
+
+#bodyText {
+
+    display: grid;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+
+
+}
