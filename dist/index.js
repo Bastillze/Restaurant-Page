@@ -1,3 +1,5 @@
-import * as module from  './initial_page_load.js';
-module.initialPageLoad();
+import {initialPageLoad} from './initial_page_load.js';
+
+initialPageLoad();
+
 
