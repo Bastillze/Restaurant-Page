@@ -1,4 +1,5 @@
 import * as module from './initial_page_load.js';
+<<<<<<< HEAD
 
 import {menu} from "./src/Menu_Tab/MenuTab.js";
 
@@ -26,3 +27,11 @@ contactTab.addEventListener("click" , contact);
 
 
 }
+=======
+import {menu} from './menu.js';
+import {contact} from '/contact';
+module.initialPageLoad();
+
+
+
+>>>>>>> b616fe74177547ed8b696eedfc4970792a8a7472
